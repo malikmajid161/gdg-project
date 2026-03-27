@@ -129,6 +129,6 @@ git clone https://github.com/your-username/student-performance-prediction
 
 ## 👤 Author
 
-**Shahid**
+**Muhammad MAjid Ali**
 COMSATS University Islamabad, Wah Campus
 GDGoC DECODE Data Science Bootcamp 2026
